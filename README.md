@@ -20,4 +20,8 @@ to rotate a quadrant and the player wins immediately.
 For each move provide four inputs:                               
    row (A-F), column (1-6), quadrant (1-4), rotation direction (L or R) 
 For instance input of B32R places the next piece at B3 and then  
-would rotate quadrant 2 (upper-right) to the right (clockwise). 
+would rotate quadrant 2 (upper-right) to the right (clockwise).
+
+# Pentago Undo
+The exact same way to play, however there is a funcion to
+undo your steps.
